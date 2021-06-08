@@ -1,3 +1,3 @@
-Project Who pays the bill?
+Tiny Project "Who pays the bill?"
 
 React JS
